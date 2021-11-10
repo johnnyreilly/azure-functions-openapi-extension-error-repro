@@ -15,7 +15,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.Azure.Functions.Extensions" Version="1.1.0" />
     <!-- 
-      This worked with 0.8.1-preview but broke with 0.9.1-preview.  Still broken in 1.0.0
+      This worked with 0.8.1-preview but broke with 0.9.0-preview.  Still broken in 1.0.0
 
       <PackageReference Include="Microsoft.Azure.WebJobs.Extensions.OpenApi" Version="0.8.1-preview" /> 
       -->
